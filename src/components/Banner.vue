@@ -8,7 +8,7 @@
       </p>
       <p class="subtitulo-lg">Explore novas receitas todos os dias com os ingredientes que estão ao seu alcance!</p>
     </div>
-    <img src="/./imagens/imagens_principais/foto-banner.png" alt="Foto de uma mulher cozinhando com uma bacia de vidro na mão. Ela está sorrindo e está apoiando um celular entre seu rosto e seu ombro" class="foto-banner">
+    <img :src="`./imagens/imagens_principais/foto-banner.png`" alt="Foto de uma mulher cozinhando com uma bacia de vidro na mão. Ela está sorrindo e está apoiando um celular entre seu rosto e seu ombro" class="foto-banner">
   </header>
 </template>
 
