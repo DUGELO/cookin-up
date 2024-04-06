@@ -23,7 +23,7 @@ export default {
         </ul>
 
         <p v-else class="paragrafo lista-vazia">
-            <img src="/cookin-up/assets/images/icones/lista-vazia.svg" alt="Ícone de pesquisa">
+            <img src="/imagens/imagens_principais/lista-vazia.svg" alt="Ícone de pesquisa">
             Sua lista está vazia, selecione ingredientes para continuar
         </p>
     </section>

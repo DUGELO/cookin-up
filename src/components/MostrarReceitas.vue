@@ -59,7 +59,7 @@ export default {
         Ops, não encontramos resultados para sua combinação. Vamos tentar de novo?
       </p>
 
-      <img src="/cookin-up/assets/images/sem-receitas.png"
+      <img src="\imagens\imagens_principais\sem-receitas.png"
         alt="Desenho de um ovo quebrado. A gema tem um rosto com uma expressão triste.">
     </div>
 
